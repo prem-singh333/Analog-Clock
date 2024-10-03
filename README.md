@@ -1,2 +1,2 @@
 # Analog-Clock
-this project is based on HTML, CSS, JavaScript.
+This project is based on HTML, CSS, JavaScript.
